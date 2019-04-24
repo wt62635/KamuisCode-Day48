@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlets.xml>
+	<servlet path="/myweb/reg" className="com.webserver.servlet.RegServlet"/>
+	<servlet path="/myweb/login" className="com.webserver.servlet.LoginServlet"/>
+	<servlet path="/myweb/update" className="com.webserver.servlet.UpdateServlet"/>
+	<servlet path="/myweb/random.jpg" className="com.webserver.servlet.RandomImageServlet"/>
+</servlets.xml>
